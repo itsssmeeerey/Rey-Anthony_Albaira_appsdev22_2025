@@ -1,0 +1,17 @@
+C:\Users\OO101\source\repos\WinFormsApp20255\WinFormsApp20255\bin\Debug\net8.0-windows\WinFormsApp20255.exe
+C:\Users\OO101\source\repos\WinFormsApp20255\WinFormsApp20255\bin\Debug\net8.0-windows\WinFormsApp20255.deps.json
+C:\Users\OO101\source\repos\WinFormsApp20255\WinFormsApp20255\bin\Debug\net8.0-windows\WinFormsApp20255.runtimeconfig.json
+C:\Users\OO101\source\repos\WinFormsApp20255\WinFormsApp20255\bin\Debug\net8.0-windows\WinFormsApp20255.dll
+C:\Users\OO101\source\repos\WinFormsApp20255\WinFormsApp20255\bin\Debug\net8.0-windows\WinFormsApp20255.pdb
+C:\Users\OO101\source\repos\WinFormsApp20255\WinFormsApp20255\obj\Debug\net8.0-windows\WinFormsApp20255.Form1.resources
+C:\Users\OO101\source\repos\WinFormsApp20255\WinFormsApp20255\obj\Debug\net8.0-windows\WinFormsApp20255.Properties.Resources.resources
+C:\Users\OO101\source\repos\WinFormsApp20255\WinFormsApp20255\obj\Debug\net8.0-windows\WinFormsApp20255.csproj.GenerateResource.cache
+C:\Users\OO101\source\repos\WinFormsApp20255\WinFormsApp20255\obj\Debug\net8.0-windows\WinFormsApp20255.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OO101\source\repos\WinFormsApp20255\WinFormsApp20255\obj\Debug\net8.0-windows\WinFormsApp20255.AssemblyInfoInputs.cache
+C:\Users\OO101\source\repos\WinFormsApp20255\WinFormsApp20255\obj\Debug\net8.0-windows\WinFormsApp20255.AssemblyInfo.cs
+C:\Users\OO101\source\repos\WinFormsApp20255\WinFormsApp20255\obj\Debug\net8.0-windows\WinFormsApp20255.csproj.CoreCompileInputs.cache
+C:\Users\OO101\source\repos\WinFormsApp20255\WinFormsApp20255\obj\Debug\net8.0-windows\WinFormsApp20255.dll
+C:\Users\OO101\source\repos\WinFormsApp20255\WinFormsApp20255\obj\Debug\net8.0-windows\refint\WinFormsApp20255.dll
+C:\Users\OO101\source\repos\WinFormsApp20255\WinFormsApp20255\obj\Debug\net8.0-windows\WinFormsApp20255.pdb
+C:\Users\OO101\source\repos\WinFormsApp20255\WinFormsApp20255\obj\Debug\net8.0-windows\WinFormsApp20255.genruntimeconfig.cache
+C:\Users\OO101\source\repos\WinFormsApp20255\WinFormsApp20255\obj\Debug\net8.0-windows\ref\WinFormsApp20255.dll
